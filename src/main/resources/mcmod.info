@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skywarscounter",
+  "name": "Skywars Counter",
+  "description": "subscribe to urtryhard.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "youtube.com/awayxd",
+  "updateUrl": "",
+  "authorList": ["AwayXD"],
+  "credits": "awaylmao",
+  "logoFile": "logo.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
