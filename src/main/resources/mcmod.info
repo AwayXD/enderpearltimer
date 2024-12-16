@@ -1,8 +1,8 @@
 [
 {
-  "modid": "skywarscounter",
-  "name": "Skywars Counter",
-  "description": "subscribe to urtryhard.",
+  "modid": "browsermod",
+  "name": "Browser",
+  "description": "browser in your game.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "youtube.com/awayxd",
